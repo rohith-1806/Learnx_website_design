@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Exclude nested repos and temp files
+/event_page/
+event_page.zip
+db.json
+/scratch/
