@@ -226,7 +226,45 @@ Event Cards Include:
 
 ---
 
-## 📂 Project Structure
+## 👨‍💻 Creator & Developer
+
+<h2 align="center">Developed By</h2>
+
+<h1 align="center">🚀 Perumalla Rohith 🚀</h1>
+
+<p align="center">
+Full Stack Developer | AI & ML Enthusiast | UI/UX Designer
+</p>
+
+<p align="center">
+Designed and developed LernX with a vision to create a modern,
+interactive, and user-friendly digital learning experience.
+</p>
+
+
+---
+
+## 🌟 Project Vision
+
+LernX represents the future of online learning by combining:
+
+✔ Modern UI/UX Design  
+✔ Interactive Learning Experience  
+✔ Smart Progress Tracking  
+✔ Digital Certification System  
+✔ Responsive Theme Experience  
+
+Built with dedication, creativity, and innovation.
+
+---
+
+<p align="center">
+⭐ If you find this project useful, support it by giving a star ⭐
+</p>
+
+<p align="center">
+© 2026 LernX | Created by Perumalla Rohith
+</p>
 
 
 Frontend
