@@ -1,70 +1,232 @@
-# Getting Started with Create React App
+<h1 align="center">🎓 LernX - Online Learning Platform</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+A modern full-stack e-learning platform designed for interactive learning, course management, progress tracking, event participation, and digital certification.
+</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 About The Project
 
-### `npm start`
+LernX is a complete Learning Management System (LMS) built to provide a smooth online learning experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The platform allows users to explore different learning paths, enroll in courses, watch tutorials, complete assignments, attempt quizzes, track learning progress, participate in events, and generate verified course completion certificates.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The application provides a modern responsive interface with both Light Mode and Dark Mode support.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Features
 
-### `npm run build`
+### 🔐 Authentication System
+- Secure user registration
+- User login authentication
+- Protected routes
+- User session handling
+- Logout functionality
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🏠 Home Page
 
-### `npm run eject`
+- Modern landing page design
+- Platform introduction
+- Learning categories
+- Department based course exploration
+- Interactive UI animations
+- Smooth event slider
+- Responsive footer section
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📚 Course Management
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Users can:
 
-## Learn More
+✔ Explore learning categories  
+✔ View available courses  
+✔ Open detailed course information  
+✔ Start / Continue learning  
+✔ Track enrolled courses  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Course Details Include:
 
-### Code Splitting
+- Course description
+- Duration
+- Instructor details
+- Difficulty level
+- Course syllabus
+- Completion status
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🎥 Interactive Course Player
 
-### Making a Progressive Web App
+Complete learning environment containing:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Tutorials
+- Topic based lessons
+- Structured modules
+- Learning materials
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Video Lessons
+- Course related video content
+- Embedded learning videos
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Assignments
+- Task based assignments
+- File submission
+- Project submission
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Quizzes
+- Course specific quizzes
+- Multiple choice questions
+- Knowledge evaluation
+
+
+### Final Assessment
+- Final capstone project submission
+- Course completion validation
+
+
+---
+
+## 📊 Progress Tracking System
+
+- Real-time course progress tracking
+- Completed lessons saved permanently
+- User progress persistence
+- Continue learning from previous state
+- Percentage based completion status
+
+
+---
+
+## 🏆 Certificate Generation
+
+After completing all course requirements:
+
+Users can generate verified certificates.
+
+Certificate Includes:
+
+- Student Name
+- Institution Name
+- Graduation Year
+- Course Name
+- Issue Date
+- Unique Credential ID
+
+Features:
+
+✔ Dynamic user details  
+✔ Course based certificates  
+✔ Certificate preview  
+✔ View generated certificates  
+
+
+---
+
+## 👤 User Profile Dashboard
+
+User profile contains:
+
+- User information
+- Enrolled learning pathways
+- Course progress status
+- Continue learning option
+- Password update system
+- Theme customization
+
+
+---
+
+## 🌙 Theme System
+
+Fully responsive theme switching:
+
+### Light Mode
+Clean modern bright interface
+
+
+### Dark Mode
+Professional dashboard style:
+
+- Dark backgrounds
+- Modern cards
+- Purple accent colors
+- Smooth UI experience
+
+
+---
+
+## 📅 Events Module
+
+Users can:
+
+- Browse workshops
+- View upcoming events
+- Register for events
+- Track reserved events
+
+
+Event Cards Include:
+
+- Event image
+- Event category
+- Event date
+- Location
+- Registration option
+
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Axios
+
+
+### Backend
+
+- Node.js
+- Express.js
+
+
+### Database
+
+- MongoDB
+
+
+---
+
+## 🎨 UI Highlights
+
+- Fully responsive design
+- Modern LMS dashboard
+- Smooth animations
+- Interactive cards
+- Clean navigation system
+- Dark / Light theme support
+- User friendly interface
+
+
+---
+
+## 📂 Project Structure
+
+
+Frontend
