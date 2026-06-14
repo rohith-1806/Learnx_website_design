@@ -225,6 +225,19 @@ Event Cards Include:
 
 
 ---
+## 🌟 Project Vision
+
+LernX represents the future of online learning by combining:
+
+✔ Modern UI/UX Design  
+✔ Interactive Learning Experience  
+✔ Smart Progress Tracking  
+✔ Digital Certification System  
+✔ Responsive Theme Experience  
+
+Built with dedication, creativity, and innovation.
+
+---
 
 ## 👨‍💻 Creator & Developer
 
@@ -244,19 +257,7 @@ interactive, and user-friendly digital learning experience.
 
 ---
 
-## 🌟 Project Vision
 
-LernX represents the future of online learning by combining:
-
-✔ Modern UI/UX Design  
-✔ Interactive Learning Experience  
-✔ Smart Progress Tracking  
-✔ Digital Certification System  
-✔ Responsive Theme Experience  
-
-Built with dedication, creativity, and innovation.
-
----
 
 <p align="center">
 ⭐ If you find this project useful, support it by giving a star ⭐
